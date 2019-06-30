@@ -8,3 +8,6 @@
 - [GHC Commentary](https://gitlab.haskell.org/ghc/ghc/wikis/commentary/#the-ghc-commentary)
 - [GHC - from AOSA book](https://www.aosabook.org/en/ghc.html)
 - [GHC Reading List](https://gitlab.haskell.org/ghc/ghc/wikis/reading-list)
+- [STG paper (SPJ, PDF, 1992)](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf)
+- [GHC - Core (PDF, 2009)](https://downloads.haskell.org/~ghc/6.10.4/docs/html/ext-core/core.pdf)
+- [sdiehl's GHC list of papers](https://github.com/sdiehl/papers)

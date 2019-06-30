@@ -6,3 +6,4 @@
 - [Implementation and Application of Functional Languages - 19th International Symposium, IFL 2007 (PDF)](https://proglang.informatik.uni-freiburg.de/IFL2007/printIFL.pdf)
 - [Learning STG by example](https://gitlab.haskell.org/ghc/ghc/wikis/commentary/compiler/generated-code)
 - [GHC Commentary](https://gitlab.haskell.org/ghc/ghc/wikis/commentary/#the-ghc-commentary)
+- [GHC - from AOSA book](https://www.aosabook.org/en/ghc.html)

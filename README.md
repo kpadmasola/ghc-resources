@@ -7,3 +7,4 @@
 - [Learning STG by example](https://gitlab.haskell.org/ghc/ghc/wikis/commentary/compiler/generated-code)
 - [GHC Commentary](https://gitlab.haskell.org/ghc/ghc/wikis/commentary/#the-ghc-commentary)
 - [GHC - from AOSA book](https://www.aosabook.org/en/ghc.html)
+- [GHC Reading List](https://gitlab.haskell.org/ghc/ghc/wikis/reading-list)
